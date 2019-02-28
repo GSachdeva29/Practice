@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Iterator;
-
+//After changes.
 public class Arraylist_Test
 {
     public static void main(String[] args)
